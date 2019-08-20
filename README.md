@@ -1,6 +1,6 @@
-# claculadora_imc
 
-A new Flutter application.
+[![Codemagic build status](https://api.codemagic.io/apps/5d5c2f8f6722393cbdeb6ff6/5d5c2f8f6722393cbdeb6ff5/status_badge.svg)](https://codemagic.io/apps/5d5c2f8f6722393cbdeb6ff6/5d5c2f8f6722393cbdeb6ff5/latest_build)
+
 
 ## Getting Started
 
